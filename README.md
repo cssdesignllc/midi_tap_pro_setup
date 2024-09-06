@@ -20,4 +20,4 @@ pip install python-midi
 py main.py
 ```
 ## Usage
-![app](https://github.com/cssdesignllc/midi_tap_pro_setup/blob/main/image/mtp_main.jpeg?raw=true)
+![app](https://github.com/cssdesignllc/midi_tap_pro_setup/blob/main/image/mtp_main.jpg)
