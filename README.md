@@ -19,4 +19,5 @@ pip install python-midi
 ```console
 py main.py
 ```
-##
+## Usage
+![app](https://github.com/cssdesignllc/midi_tap_pro_setup/blob/main/image/mtp_main.jpeg?raw=true)
