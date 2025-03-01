@@ -28,6 +28,7 @@ from tabs.tab_midi_tap_update import TabMidiTapUpdate
 from tabs.tab_midi_tap_stats import TabMidiTapStats
 from tabs.tab_midi_tap_display import TabMidiTapDisplay
 from midi.midi_port_comm import MidiPortComm
+import mido.backends.rtmidi
 
 # pip install mido
 # pip install python-rtmidi
